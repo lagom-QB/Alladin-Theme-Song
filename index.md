@@ -4,9 +4,9 @@ Creating a Visualization to get insights on instruments and notes played in the 
 
 ## Major Objectives
 
-Perform data manipulation, analysis, and visualisation to get various insights about the song
-Find the most popular and unpopular instruments and Notes played for the duration of the song
-Visualize results using different inbuilt packages
+- Perform data manipulation, analysis, and visualisation to get various insights about the song
+- Find the most popular and unpopular instruments and Notes played for the duration of the song
+- Visualize results using different inbuilt packages
 
 ## Code and Resources Used
 
