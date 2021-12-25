@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Alladin Theme Song
 
-You can use the [editor on GitHub](https://github.com/lagom-QB/Alladin-Theme-Song/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Creating a Visualization to get insights on instruments and notes played in the Alladin Theme Song
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Major Objectives
 
-### Markdown
+Perform data manipulation, analysis, and visualisation to get various insights about the song
+Find the most popular and unpopular instruments and Notes played for the duration of the song
+Visualize results using different inbuilt packages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Code and Resources Used
 
-```markdown
-Syntax highlighted code block
+- Python Version: 3.7, R
+- Packages: pandas, numpy, seaborn, plotly
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Data Manipulation
 
-1. Numbered
-2. List
+After reading the song and transcribing it to a dataset using R, I found there are certain rows with incomplete data which needed manipulation of sorts.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lagom-QB/Alladin-Theme-Song/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Notebook](https://github.com/lagom-QB/Alladin-Theme-Song/blob/main/notebook/app_music.ipynb)
